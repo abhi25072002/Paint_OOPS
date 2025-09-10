@@ -1,6 +1,4 @@
-# Paint_OOPS
-Paint application using OOPs concept and OpenGL library 
-# Paint – Shapes Editor Using OOP in C++
+# Paint – Shapes Editor Using OOPs and OpenGL in C++
 
 ## 📌 Overview
 This project is a **Shapes Editor/Paint application** implemented in **C++** using OpenGL and GLUT.  
