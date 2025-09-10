@@ -66,12 +66,8 @@ make
 
 ## 📸 Screenshots
 
-| Drawing Shapes | Airbrush Feature |
-|----------------|------------------|
-| ![Shapes Example](Output/shapes.png) | ![Airbrush Example](Output/Radial brush_1.png) |
-
 | Radial Brush | Polygon Drawing |
-|--------------|-----------------|
-| ![Radial Brush](Output/radial_brush.png) | ![Polygon Drawing](Output/all features_2.png) |
+|--------------|----------------|
+| ![Radial Brush](Output/Radial_brush.png) | ![Polygon Drawing](Output/all_features_2.png) |
 
 
